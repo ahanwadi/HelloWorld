@@ -1,0 +1,19 @@
+plugins {
+  id 'org.ensime.gradle' version '0.2.8'
+}
+
+apply plugin: 'scala'
+apply plugin: 'application'
+
+mainClassName = 'Main'
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.2'
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile group: 'org.scala-lang', name: 'scala-library', version: '2.11.8'
+}

@@ -1,0 +1,18 @@
+(:root-dir "/Users/ashishhanwadikar/development/scala/HelloWorld"
+:cache-dir "/Users/ashishhanwadikar/development/scala/HelloWorld/.ensime_cache.d"
+:name "HelloWorld"
+:java-home "/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home"
+:java-flags ()
+:formatting-prefs ()
+:reference-source-roots ()
+:scala-version "2.11.8"
+:compiler-args ()
+:subprojects ((:name "HelloWorld"
+:source-roots ("/Users/ashishhanwadikar/development/scala/HelloWorld/src/main/resources" "/Users/ashishhanwadikar/development/scala/HelloWorld/src/main/java" "/Users/ashishhanwadikar/development/scala/HelloWorld/src/main/scala" "/Users/ashishhanwadikar/development/scala/HelloWorld/src/test/resources" "/Users/ashishhanwadikar/development/scala/HelloWorld/src/test/java" "/Users/ashishhanwadikar/development/scala/HelloWorld/src/test/scala")
+:reference-source-roots ("/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/17178a95c4b47c0a9745cfb8d01924359824fd7c/scala-library-2.11.8-sources.jar")
+:doc-jars ("/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/11b4ba4c0a60f74d3cc02a034098543006418271/scala-library-2.11.8-javadoc.jar")
+:targets ("/Users/ashishhanwadikar/development/scala/HelloWorld/build/classes/main")
+:test-targets ("/Users/ashishhanwadikar/development/scala/HelloWorld/build/classes/test")
+:depends-on-modules ()
+:compile-deps ("/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar")
+:test-deps ("/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" "/Users/ashishhanwadikar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar"))))
